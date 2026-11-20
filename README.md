@@ -1,4 +1,4 @@
-# ThinkInPatterns
+# ThinkInPatterns - Note: The full source code is currently private.
 
 ## Web-based platform for learning software design patterns
 
